@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![contreindiction](https://github.com/youssefbarj/contreindiction/raw/main/screenshot.png)
+![contreindiction](https://raw.githubusercontent.com/youssefbarj/contreindiction/main/screenshot.png)
 
 ## What this slide does
 
